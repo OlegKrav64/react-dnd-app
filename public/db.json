@@ -1,0 +1,56 @@
+[
+    {
+        "name": "Caesar salad",
+        "imageUrl": "https://s1.eda.ru/StaticContent/Photos/120131082454/161109234550/p_O.jpg",
+        "id": 0,
+        "kcals": 925 
+    },
+    {
+        "name": "Steak",
+        "imageUrl": "http://primebeef.ru/images/cms/data/blog/newyork-steak1.png",
+        "id": 1,
+        "kcals": 544 
+    },
+    {
+        "name": "Salmon sandwich",
+        "imageUrl": "https://tastymix.ru/wp-content/uploads/2019/10/tastymix.ru-sendvich-s-lososem-i-slivochnym-syrom-768x512.jpg",
+        "id": 2,
+        "kcals": 325 
+    },
+    {
+        "name": "Cheese sticks",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/1b/ad/9f/65/cheese-sticks.jpg",
+        "id": 3,
+        "kcals": 756 
+    },
+    {
+        "name": "Borsch",
+        "imageUrl": "https://www.rednumberone.com/wp-content/uploads/2017/03/WEB_DSC_0318_20170302_170302-2.jpg",
+        "id": 4,
+        "kcals": 431 
+    },
+    {
+        "name": "Mushroom soup",
+        "imageUrl": "https://www.recipetineats.com/wp-content/uploads/2021/04/Mushroom-Soup-in-bowl-SQ.jpg",
+        "id": 5,
+        "kcals": 752 
+    },
+    {
+        "name": "Fried eggs",
+        "imageUrl": "https://elims.org.ua/lifehack/files/2015/04/artleo.com-761731.jpg",
+        "id": 6,
+        "kcals": 531 
+    },
+    {
+        "name": "Cappuccino",
+        "imageUrl": "https://shop.tastycoffee.ru/files/shares/data/blog/capuccino-latte-flatwhite/image4.jpg",
+        "id": 7,
+        "kcals": 121 
+    },
+    {
+        "name": "Beef burger",
+        "imageUrl": "https://media-cdn.tripadvisor.com/media/photo-s/12/66/9c/2c/burger-tygodnia-oldschool.jpg",
+        "id": 8,
+        "kcals": 128 
+    }
+]

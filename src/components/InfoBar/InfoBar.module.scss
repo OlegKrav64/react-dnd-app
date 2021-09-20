@@ -1,0 +1,38 @@
+.infoBar {
+    padding: 25px;
+    border-bottom: 1px solid rgb(230, 230, 230);
+}
+
+.row {
+    display: flex;
+    align-items: center;
+}
+
+.column {
+    padding: 0 20px;
+    border-right: 1px solid #e6e6e6;
+    &:first-child {
+        padding-left: 0;
+    }
+}
+
+.title {
+    font-size: 14px;
+    color: rgb(82, 82, 82);
+    margin-bottom: 7px;
+}
+
+.bottomSide {
+    display: flex;
+    align-items: center;
+    img {
+        margin-right: 10px;
+        display: block;
+        width: 12px;
+        height: 12px;
+    }
+}
+
+.value {
+
+}
